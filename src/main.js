@@ -1,6 +1,10 @@
+import 'bulma';
+import './app.scss';
+
 import Vue from 'vue';
-import App from './App.vue';
 import store from './store';
+
+import App from './App.vue';
 
 Vue.config.productionTip = false;
 
